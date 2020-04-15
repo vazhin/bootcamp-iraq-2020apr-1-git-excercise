@@ -1,5 +1,5 @@
 Exercise:
-- Fork our this repo
+- Fork this repo
 - create a branch called adding-hobby
 - inside class01 create a folder with your name
 - create a file name index.html and paste this code in it
