@@ -1,5 +1,6 @@
 Exercise:
 - Fork this repo
+- clone to your computer
 - create a branch called adding-hobby
 - inside class01 create a folder with your name
 - create a file name index.html and paste [this code](https://repl.it/@osamaabdullah/recoded-exercise) in it
@@ -7,5 +8,5 @@ Exercise:
 - stage your changes
 - commit your changes
 - merge with master
-- push
-- pull request your commits
+- push to remote (github)
+- pull request your fork
